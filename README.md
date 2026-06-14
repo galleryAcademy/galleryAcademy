@@ -10,7 +10,7 @@ Whether you're student, just starting in a career, or you're an experienced prof
 - 🔭 Working on: **PI Squared Academy - an AI-powered conversational application designed specifically to help users master STEAM subjects. Operating as a virtual personal coach, it allows learners to have natural, open-ended voice and text conversations rather than relying on rigid, pre-scripted lessons.**
 - 🌍 Languages: **English , Afrikaans , Zulu and Sotho/Tswana**
 - 📫 How to reach us: **u28506202@tuks.co.za**
-- ⚡ Fun fact: **100.00% pass rate over the past 2 decades**
+- ⚡ Fun fact: **100% pass rate over the past 2 decades**
 
 ## My Skills 🧠
 
