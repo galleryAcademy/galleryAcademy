@@ -7,7 +7,7 @@
 Whether you're student, just starting in a career, or you're an experienced professional, our self-directed approach helps you arrive at your goals faster, with more confidence and at your own pace. Develop skills through interactive modules and paths or learn from an instructor. Learn and grow your way.
 
 - 🌱 Currently teching: **Introduction to AI concepts**
-- 🔭 Working on: **PI Squared Academy - an AI-powered conversational application designed specifically to help users master STEAM subjects. Operating as a virtual personal coach, it allows learners to have natural, open-ended voice and text conversations rather than relying on rigid, pre-scripted lessons.**
+- 🔭 Working on: **An AI-powered conversational application designed specifically to help users master STEAM subjects. Operating as a virtual personal coach, it allows learners to have natural, open-ended voice and text conversations rather than relying on rigid, pre-scripted lessons.**
 - 🌍 Languages: **English , Afrikaans , Zulu and Sotho/Tswana**
 - 📫 How to reach us: **u28506202@tuks.co.za**
 - ⚡ Fun fact: **100% pass rate over the past 2 decades**
